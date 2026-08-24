@@ -1,6 +1,6 @@
 # Brand Clarity and Messaging Review
 
-A Claude skill that analyzes an organization's brand and messaging the way a brand and marketing strategist would analyze a business problem: **"Why is this organization struggling with capturing leads or getting new customers at this moment?"**
+A Claude skill that analyzes an organization's brand and messaging the way a brand and marketing strategist would analyze a business problem: **"Why is this organization struggling with their marketing or capturing leads or getting new customers at this moment?"**
 
 ## What It Does
 
