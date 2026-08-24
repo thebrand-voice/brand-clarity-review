@@ -39,7 +39,7 @@ Things worth asking because they could not be verified externally.
 1. **Download** `skill.md` from this repo
 2. **In Claude**, go to **Customize > Skills**
 3. Click **+ Create skill > Upload a skill** and upload the file (as a `.skill`/`.zip` package, or package it yourself — see [Anthropic's skill docs](https://docs.anthropic.com/))
-4. **Paste or upload** an organization's website, marketing materials, job descriptions, or strategic brief
+4. **Paste or upload** an organization's website, marketing materials, sales materials, or strategic brief
 5. **Ask Claude** to "analyze this organization's brand" or "run the strategic analysis"
 6. *Optional:* Provide additional sources from the same org or your own background for a fuller read
 
