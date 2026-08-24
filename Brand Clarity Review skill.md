@@ -1,3 +1,16 @@
+---
+name: Brand Clarity Review
+description: Analyzes an organization's digital presence to refine brand positioning, voice, and messaging for target audiences, driving improved engagement and conversions across website, marketing, and sales channels.
+version: 1.0.0
+author: thebrand-voice
+tags:
+  - brand strategy
+  - messaging
+  - positioning
+  - competitive analysis
+  - marketing strategy
+---
+
 # Brand Clarity Review
 
 ## Evaluates an organization's digital presence to refine brand positioning, voice, and messaging for target audiences, driving improved engagement and conversions across website, marketing, and sales channels.
